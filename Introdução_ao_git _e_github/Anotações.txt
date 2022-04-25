@@ -1,9 +1,0 @@
-Use o git init para tornar a pasta em um repositório do git
-Clique com o botão direito e em "usar o GitBash aqui" para rodar o git bash diretamente na pasta.
-Git add para colocar as mudanças "on stage"
-Git commit para comitar o arquivo. NÃO ESQUECER DE COMENTAR.
-Caso esqueça de comentar:
--clica i para introduzir o texto
--clica esc após concluir o comentário
--escreva :wq para concluir
--enter.

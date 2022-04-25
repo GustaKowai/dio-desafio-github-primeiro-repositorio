@@ -7,3 +7,6 @@ Caso esqueça de comentar:
 -clica esc após concluir o comentário
 -escreva :wq para concluir
 -enter.
+Git pull para pegar a versão mais recente
+Git push para submeter a versão do computador
+Git clone para copiar da versão remota para o computador

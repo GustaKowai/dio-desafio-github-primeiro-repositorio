@@ -10,3 +10,5 @@ Caso esqueça de comentar:
 Git pull para pegar a versão mais recente
 Git push para submeter a versão do computador
 Git clone para copiar da versão remota para o computador
+git remote add origin <link> para linkar o repositorio local com um remoto
+git push -u origin master para empurrar o repositorio local para o remoto no branch master
